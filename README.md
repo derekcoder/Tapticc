@@ -24,7 +24,7 @@ pod 'Tapticc'
 
 ### Impact Feedback
 
-![alt text][ImpactImage]
+![alt text](/Tapticc/Assets/impact.png =422x283)
 
 ### Notification Feedback
 
