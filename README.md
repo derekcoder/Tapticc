@@ -24,15 +24,15 @@ pod 'Tapticc'
 
 ### Impact Feedback
 
-![alt text][/Tapticc/master/Tapticc/Assets/impact.png]
+![alt text][ImpactImage]
 
 ### Notification Feedback
 
-![alt text][/Tapticc/master/Tapticc/Assets/notification.png]
+![alt text][NotificationImage]
 
 ### Selection Feedback
 
-![alt text][/Tapticc/master/Tapticc/Assets/selection.png]
+![alt text][SelectionImage]
 
 ## Author
 
@@ -41,3 +41,7 @@ derekcoder, derekcoder@gmail.com
 ## License
 
 Tapticc is available under the MIT license. See the LICENSE file for more info.
+
+[ImpactImage]: /Tapticc/Assets/impact.png
+[NotificationImage]: /Tapticc/Assets/notification.png
+[SelectionImage]: /Tapticc/Assets/selection.png
