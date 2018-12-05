@@ -24,21 +24,15 @@ pod 'Tapticc'
 
 ### Impact Feedback
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/derekcoder/Tapticc/master/Tapticc/Assets/impact.png" width="700">
-</p>
+![alt text][/Tapticc/master/Tapticc/Assets/impact.png]
 
 ### Notification Feedback
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/derekcoder/Tapticc/master/Tapticc/Assets/notification.png" width="700">
-</p>
+![alt text][/Tapticc/master/Tapticc/Assets/notification.png]
 
 ### Selection Feedback
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/derekcoder/Tapticc/master/Tapticc/Assets/selection.png" width="700">
-</p>
+![alt text][/Tapticc/master/Tapticc/Assets/selection.png]
 
 ## Author
 
