@@ -20,9 +20,29 @@ it, simply add the following line to your Podfile:
 pod 'Tapticc'
 ```
 
+## Usage
+
+### Impact Feedback
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/derekcoder/Tapticc/master/assets/impact.png" width="700">
+</p>
+
+### Notification Feedback
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/derekcoder/Tapticc/master/assets/notification.png" width="700">
+</p>
+
+### Selection Feedback
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/derekcoder/Tapticc/master/assets/selection.png" width="700">
+</p>
+
 ## Author
 
-derekcoder@gmail.com, derekcoder@gmail.com
+derekcoder, derekcoder@gmail.com
 
 ## License
 
