@@ -11,6 +11,10 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+- iOS 10.0+
+- iPhone 7+
+- Swift 4.2
+
 ## Installation
 
 Tapticc is available through [CocoaPods](https://cocoapods.org). To install
