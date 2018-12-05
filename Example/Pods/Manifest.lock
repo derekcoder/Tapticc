@@ -1,0 +1,16 @@
+PODS:
+  - Tapticc (0.1.0)
+
+DEPENDENCIES:
+  - Tapticc (from `../`)
+
+EXTERNAL SOURCES:
+  Tapticc:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Tapticc: ee13accd054640c78d14168869f798612baf423d
+
+PODFILE CHECKSUM: 0675c46309d226e33605a10403424df8425b2a19
+
+COCOAPODS: 1.5.3

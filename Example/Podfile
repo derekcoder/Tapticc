@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'Tapticc_Example' do
+  pod 'Tapticc', :path => '../'
+
+end

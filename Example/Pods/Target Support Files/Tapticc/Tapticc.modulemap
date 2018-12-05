@@ -1,0 +1,6 @@
+framework module Tapticc {
+  umbrella header "Tapticc-umbrella.h"
+
+  export *
+  module * { export * }
+}
