@@ -55,6 +55,7 @@ pod 'Tapticc'
 
 ## Donation
 If you like this project or has been helpful to you, you can buy me a cup of coffe ☕️. Very appreciate it!😉 
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/derekcoder)
 
 ## License
