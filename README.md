@@ -28,17 +28,25 @@ pod 'Tapticc'
 
 ## Usage
 
-### Impact Feedback
+### Create haptics to simulate physical impacts
 
 ![alt text](/Tapticc/Assets/impact.png)
 
-### Notification Feedback
+### Create haptics to communicate successes, failures, and warnings
 
 ![alt text](/Tapticc/Assets/notification.png)
 
-### Selection Feedback
+### Create haptics to indicate a change in selection
 
 ![alt text](/Tapticc/Assets/selection.png)
+
+### Prepare
+
+![alt text](/Tapticc/Assets/prepare.png)
+
+> The `prepare()` method is optional; however, it is highly recommended. Calling this method helps ensure that your feedback has the lowest possible latency.
+
+### 
 
 ## Author
 
