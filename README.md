@@ -46,7 +46,9 @@ pod 'Tapticc'
 
 > The `prepare()` method is optional; however, it is highly recommended. Calling this method helps ensure that your feedback has the lowest possible latency.
 
-## Use this Project's Apps
+## Apps of using this project
+
+#### Please tell me or make pull request if you use this library in your application 😉 
 
 |<img alt="Grape" src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/42/13/05/42130514-94ae-6047-197d-760728ff2602/source/60x60bb.jpg" width="48">| 
 | :---: |
@@ -56,6 +58,7 @@ pod 'Tapticc'
 
 - Twitter: [@derekcoder_](https://twitter.com/derekcoder_)
 - Weibo: [@derekcoder](https://weibo.com/u/6155322764)
+- Email: derekcoder@gmail.com
 
 ## Donation
 If you like this project or has been helpful to you, you can buy me a cup of coffe ☕️. Very appreciate it!😉 
