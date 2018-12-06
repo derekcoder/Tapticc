@@ -29,16 +29,16 @@
 /* Begin PBXFileReference section */
 		0423628507DE65D53979272F778323CC /* Tapticc-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Tapticc-dummy.m"; sourceTree = "<group>"; };
 		1CAF6F0D03F9E05C30A2BE0E367227EE /* Pods-Tapticc_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Tapticc_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		1FC05190EE79F88299D47565C8F7DBC4 /* Tapticc.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = Tapticc.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1FC05190EE79F88299D47565C8F7DBC4 /* Tapticc.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = Tapticc.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3034A3FAD1F1B2BA9AF0D699C1D67FD8 /* Pods-Tapticc_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tapticc_Example-dummy.m"; sourceTree = "<group>"; };
-		443622858FBE7BA7045BE2A424C22C6F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		443622858FBE7BA7045BE2A424C22C6F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4790E14D87C23C30276EFEA3D0F84EF0 /* Pods-Tapticc_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tapticc_Example.release.xcconfig"; sourceTree = "<group>"; };
 		4C16AFB435174C99D2DAE050A4B31618 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		50DDDA3785F6A15E68C22296D3CAB296 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		50DDDA3785F6A15E68C22296D3CAB296 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		53611B0A0FCAD7D7ECED1A4E03DBB38B /* Tapticc-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Tapticc-prefix.pch"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6C40596AB91B0E713E33D57E32D8B55D /* Pods-Tapticc_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Tapticc_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		94755ABA775D7F5685D589080845A6A6 /* Pods-Tapticc_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tapticc_Example-umbrella.h"; sourceTree = "<group>"; };
 		9E6215D466651E526F55E476CB730A17 /* Pods-Tapticc_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tapticc_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		AD826DF1AAE5BC72CA064AA65B51D20A /* Tapticc-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Tapticc-umbrella.h"; sourceTree = "<group>"; };
@@ -46,10 +46,10 @@
 		B93FE0F0676B1B524ABC7810F7ED8D30 /* Pods-Tapticc_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Tapticc_Example-resources.sh"; sourceTree = "<group>"; };
 		BBD7837736E7703FA1B40A3F8A9A03CA /* Tapticc.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Tapticc.modulemap; sourceTree = "<group>"; };
 		BBDB3D54EEB60751BE04F07DAC678722 /* Tapticc.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Tapticc.swift; path = Tapticc/Classes/Tapticc.swift; sourceTree = "<group>"; };
-		CE975F51DB30F6CB5589A3656920AF09 /* Pods_Tapticc_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Tapticc_Example.framework; path = "Pods-Tapticc_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE975F51DB30F6CB5589A3656920AF09 /* Pods_Tapticc_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Tapticc_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D13E9AB35554C3D054EDE37C4A50CDF5 /* Pods-Tapticc_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Tapticc_Example.modulemap"; sourceTree = "<group>"; };
 		E18B74F069E236FBD7EEAE7A54D81B90 /* Pods-Tapticc_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Tapticc_Example-frameworks.sh"; sourceTree = "<group>"; };
-		E5C69CD773A47A8B9BE77C634939ACE1 /* Tapticc.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Tapticc.framework; path = Tapticc.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E5C69CD773A47A8B9BE77C634939ACE1 /* Tapticc.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Tapticc.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9093C2AB9674AA54201A0DEF03FE93F /* Tapticc.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Tapticc.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -372,8 +372,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -410,8 +409,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
