@@ -50,7 +50,8 @@ pod 'Tapticc'
 
 ## Author
 
-derekcoder, derekcoder@gmail.com
+- Twitter: [@derekcoder_](https://twitter.com/derekcoder_)
+- Weibo: [@derekcoder](https://weibo.com/u/6155322764)
 
 ## License
 
