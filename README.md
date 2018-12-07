@@ -30,19 +30,19 @@ pod 'Tapticc'
 
 ### Create haptics to simulate physical impacts
 
-<img src="/impact.png" alt="impact" width="398" />
+<img src="/Tapticc/Assets/impact.png" alt="impact" width="398" />
 
 ### Create haptics to communicate successes, failures, and warnings
 
-<img src="/notification.png" alt="notification" width="462" />
+<img src="/Tapticc/Assets/notification.png" alt="notification" width="462" />
 
 ### Create haptics to indicate a change in selection
 
-<img src="/selection.png" alt="selection" width="360" />
+<img src="/Tapticc/Assets/selection.png" alt="selection" width="360" />
 
 ### Prepare
 
-<img src="/prepare.png" alt="prepare" width="435" />
+<img src="/Tapticc/Assets/prepare.png" alt="prepare" width="435" />
 
 > The `prepare()` method is optional; however, it is highly recommended. Calling this method helps ensure that your feedback has the lowest possible latency.
 
