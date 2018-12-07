@@ -50,7 +50,7 @@ pod 'Tapticc'
 
 #### Please tell me or make pull request if you use this library in your application 😉 
 
-|<img alt="Grape" src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/42/13/05/42130514-94ae-6047-197d-760728ff2602/source/60x60bb.jpg" width="48">| 
+|<img alt="Grape" src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/42/13/05/42130514-94ae-6047-197d-760728ff2602/source/100x100bb.jpg" width="48">| 
 | :---: |
 | [Grape for GitHub](https://itunes.apple.com/app/apple-store/id1371929193?mt=8) | 
 
