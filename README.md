@@ -13,15 +13,23 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 - iOS 10.0+
 - iPhone 7+
-- Swift 4.2
+- Swift 4.2+
 
 ## Installation
 
 Tapticc is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
+### Swift 5.0
+
 ```ruby
-pod 'Tapticc'
+pod 'Tapticc', '~> 1.1'
+```
+
+### Swift 4.2
+
+```ruby
+pod 'Tapticc', '1.0'
 ```
 
 ## Usage
