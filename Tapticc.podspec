@@ -13,8 +13,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/derekcoder/Tapticc.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/derekcoder_'
   
-  s.swift_version = '5.0'
-
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'Tapticc/Classes/**/*'
