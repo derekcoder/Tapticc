@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Tapticc'
-  s.version          = '1.1.0'
+  s.version          = '1.1.1'
   s.summary          = 'Easy way to use haptic feedback through Taptic Engine in iOS.'
 
   s.description      = <<-DESC
@@ -18,8 +18,4 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
 
   s.source_files = 'Tapticc/Classes/**/*'
-  
-  s.resource_bundles = {
-    'Tapticc' => ['Tapticc/Assets/*.png']
-  }
 end
