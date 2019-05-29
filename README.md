@@ -52,7 +52,7 @@ pod 'Tapticc', '1.0'
 
 > The `prepare()` method is optional; however, it is highly recommended. Calling this method helps ensure that your feedback has the lowest possible latency.
 
-## Apps of using this project
+## Apps Using Tapticc
 
 #### Please tell me or make pull request if you use this library in your application 😉 
 
