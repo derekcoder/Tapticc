@@ -56,7 +56,7 @@ pod 'Tapticc', '1.0'
 
 #### Please tell me or make pull request if you use this library in your application 😉 
 
-|<img alt="Grape" src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/2a/dd/cc/2addccec-4e19-0c9e-49c7-ca9032af70f5/source/100x100bb.jpg" width="48">| 
+|<img alt="Grape" src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/0c/80/87/0c8087b1-c31f-1226-6f6f-be7230bc0c88/source/100x100bb.jpg" width="48">| 
 | :---: |
 | [Coderx for GitHub](https://itunes.apple.com/app/apple-store/id1371929193?mt=8) | 
 
