@@ -66,11 +66,6 @@ pod 'Tapticc', '1.0'
 - Weibo: [@derekcoder](https://weibo.com/u/6155322764)
 - Email: derekcoder@gmail.com
 
-## Donation
-If you like this project or has been helpful to you, you can buy me a cup of coffe ☕️. Very appreciate it!😉 
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/derekcoder)
-
 ## License
 
 Tapticc is available under the MIT license. See the LICENSE file for more info.
