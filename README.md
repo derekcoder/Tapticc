@@ -1,4 +1,4 @@
-![](/Tapticc/Assets/tapticc.png)
+# Tapticc
 
 [![CI Status](https://img.shields.io/travis/derekcoder@gmail.com/Tapticc.svg?style=flat)](https://travis-ci.org/derekcoder@gmail.com/Tapticc)
 [![Version](https://img.shields.io/cocoapods/v/Tapticc.svg?style=flat)](https://cocoapods.org/pods/Tapticc)
